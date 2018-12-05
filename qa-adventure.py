@@ -9,7 +9,7 @@ def pause():
     ready = raw_input("Enter to continue")
 
 def your_cube():
-    print("\nYou are sitting your in cube.  Your laptop is on your desk?")
+    print("\nYou are sitting in your cube.  Your laptop is on your desk.")
     print("'o' - Open your laptop and test something.")
     print("'w' - Walk outside of your cube. \n")
 
